@@ -1,4 +1,5 @@
-# Rock Paper Scissors Lizard Spock
+## Rock Paper Scissors Lizard Spock
+[![License](https://img.shields.io/github/license/cmckni3/rpsls.svg)](https://github.com/cmckni3/rpsls/blob/master/MIT-LICENSE)
 
 ## Overview
 
