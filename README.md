@@ -1,5 +1,5 @@
 ## Rock Paper Scissors Lizard Spock
-[![License](https://img.shields.io/github/license/cmckni3/rpsls.svg)](https://github.com/cmckni3/rpsls/blob/master/MIT-LICENSE)
+[![License](https://img.shields.io/github/license/cmckni3-org/rpsls.svg)](https://github.com/cmckni3-org/rpsls/blob/master/MIT-LICENSE)
 
 ## Overview
 
@@ -25,4 +25,3 @@ Rock crushes Scissors
 ```bash
 python rpsls.py
 ```
-
